@@ -1,1 +1,5 @@
-<h1 class="font-mono text-2xl text-green-800">Shelter Time Vis</h1>
+<div class="bg-blue-500 w-full min-h-screen flex">
+    <div class="mx-auto my-auto">
+        <h1 class="font-black text-2xl text-white">Shelter time vis</h1>
+    </div>
+</div>
